@@ -3,8 +3,7 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-streamlit
+streamlit>=1.40.0
 plotly
 pyarrow
 joblib
-altair<5
