@@ -1,3 +1,5 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hyperliquid-keshav.streamlit.app/)
+
 # Bitcoin Sentiment & Trader Behavior Analysis
 
 ## Project Overview
