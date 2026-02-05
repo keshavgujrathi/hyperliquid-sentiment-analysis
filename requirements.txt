@@ -7,3 +7,4 @@ streamlit
 plotly
 pyarrow
 joblib
+altair<5
