@@ -1,0 +1,8 @@
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Data
+data/processed/
